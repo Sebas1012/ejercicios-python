@@ -1,0 +1,15 @@
+Mensaje de Debug - 2023-03-09 20:00:24,268
+Mensaje de Info - 2023-03-09 20:00:24,268
+Mensaje de Warning - 2023-03-09 20:00:24,268
+Mensaje de Error - 2023-03-09 20:00:24,268
+Mensaje de Critical - 2023-03-09 20:00:24,268
+Mensaje de Debug - 2023-03-09 20:03:11,725
+Mensaje de Info - 2023-03-09 20:03:11,725
+Mensaje de Warning - 2023-03-09 20:03:11,725
+Mensaje de Error - 2023-03-09 20:03:11,725
+Mensaje de Critical - 2023-03-09 20:03:11,725
+2023-03-09 20:07:58,098 - DEBUG - logs.py:18 - Mensaje de Debug
+2023-03-09 20:07:58,098 - INFO - logs.py:19 - Mensaje de Info
+2023-03-09 20:07:58,098 - WARNING - logs.py:20 - Mensaje de Warning
+2023-03-09 20:07:58,098 - ERROR - logs.py:21 - Mensaje de Error
+2023-03-09 20:07:58,098 - CRITICAL - logs.py:22 - Mensaje de Critical
